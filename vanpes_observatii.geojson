@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.889463,
+          44.831425
+        ]
+      },
+      "properties": {
+        "species": "Iepure",
+        "count": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.893402,
+          44.828632
+        ]
+      },
+      "properties": {
+        "species": "Fazan",
+        "count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.889463,
+          44.83146
+        ]
+      },
+      "properties": {
+        "species": "Fazan",
+        "count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.891599,
+          44.831996
+        ]
+      },
+      "properties": {
+        "species": "Potarniche",
+        "count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.889436,
+          44.831441
+        ]
+      },
+      "properties": {
+        "species": "Iepure",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.889434,
+          44.831408
+        ]
+      },
+      "properties": {
+        "species": "Iepure",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8958,
+          44.828237
+        ]
+      },
+      "properties": {
+        "species": "Potarniche",
+        "count": 15
+      }
+    }
+  ]
+}
