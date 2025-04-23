@@ -112,6 +112,20 @@
         "species": "Potarniche",
         "count": 60
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.889325,
+          44.831644
+        ]
+      },
+      "properties": {
+        "species": "Fazan",
+        "count": 2
+      }
     }
   ]
 }
