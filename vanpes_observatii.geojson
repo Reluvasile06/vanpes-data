@@ -98,6 +98,20 @@
         "species": "Potarniche",
         "count": 15
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.889428,
+          44.831447
+        ]
+      },
+      "properties": {
+        "species": "Potarniche",
+        "count": 60
+      }
     }
   ]
 }
