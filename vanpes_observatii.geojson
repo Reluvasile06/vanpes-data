@@ -140,6 +140,20 @@
         "species": "Fazan",
         "count": 3
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.68851,
+          44.58996
+        ]
+      },
+      "properties": {
+        "species": "Fazan",
+        "count": 3
+      }
     }
   ]
 }
