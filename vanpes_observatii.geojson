@@ -1,4 +1,19 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.020127,
+          44.129675
+        ]
+      },
+      "properties": {
+        "species": "Caprior",
+        "count": 1
+      }
+    }
+  ]
 }
