@@ -28,6 +28,20 @@
         "species": "Pot?rniche",
         "count": 1
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.814011,
+          41.328704
+        ]
+      },
+      "properties": {
+        "species": "Pot?rniche",
+        "count": 1
+      }
     }
   ]
 }
