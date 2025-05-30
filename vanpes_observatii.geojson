@@ -1,47 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.020127,
-          44.129675
-        ]
-      },
-      "properties": {
-        "species": "Caprior",
-        "count": 1
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.818685,
-          41.329835
-        ]
-      },
-      "properties": {
-        "species": "Pot?rniche",
-        "count": 1
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.814011,
-          41.328704
-        ]
-      },
-      "properties": {
-        "species": "Pot?rniche",
-        "count": 1
-      }
-    }
-  ]
+  "features": []
 }
