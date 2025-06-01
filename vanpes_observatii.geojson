@@ -1,4 +1,19 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.053315,
+          44.161533
+        ]
+      },
+      "properties": {
+        "species": "C?prior",
+        "count": 1
+      }
+    }
+  ]
 }
