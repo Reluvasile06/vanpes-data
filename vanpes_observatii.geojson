@@ -42,6 +42,20 @@
         "species": "C?prior",
         "count": 1
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.074181,
+          44.154803
+        ]
+      },
+      "properties": {
+        "species": "Mistre?",
+        "count": 6
+      }
     }
   ]
 }
