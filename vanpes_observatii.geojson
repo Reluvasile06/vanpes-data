@@ -84,6 +84,20 @@
         "species": "Iepure",
         "count": 2
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.07161,
+          44.196548
+        ]
+      },
+      "properties": {
+        "species": "Pot?rniche",
+        "count": 5
+      }
     }
   ]
 }
