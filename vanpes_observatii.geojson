@@ -70,6 +70,20 @@
         "species": "Fazan",
         "count": 7
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.075594,
+          44.197132
+        ]
+      },
+      "properties": {
+        "species": "Iepure",
+        "count": 2
+      }
     }
   ]
 }
