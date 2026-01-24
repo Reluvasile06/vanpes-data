@@ -62,13 +62,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.107168,
-          44.168986
+          25.066883,
+          44.210969
         ]
       },
       "properties": {
         "species": "Fazan",
-        "count": 7
+        "count": 5
       }
     },
     {
