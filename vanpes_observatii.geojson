@@ -98,6 +98,20 @@
         "species": "Pot?rniche",
         "count": 5
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.046838,
+          44.214247
+        ]
+      },
+      "properties": {
+        "species": "C?prior",
+        "count": 6
+      }
     }
   ]
 }
