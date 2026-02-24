@@ -140,6 +140,20 @@
         "species": "C?prior",
         "count": 20
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.029318,
+          44.196719
+        ]
+      },
+      "properties": {
+        "species": "C?prior",
+        "count": 8
+      }
     }
   ]
 }
