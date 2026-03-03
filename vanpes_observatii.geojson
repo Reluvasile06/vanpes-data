@@ -154,6 +154,20 @@
         "species": "C?prior",
         "count": 8
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.058384,
+          44.18836
+        ]
+      },
+      "properties": {
+        "species": "C?prior",
+        "count": 8
+      }
     }
   ]
 }
